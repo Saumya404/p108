@@ -1,0 +1,34 @@
+body{
+    background-image: url(https://e0.pxfuel.com/wallpapers/13/881/desktop-wallpaper-neon-green-and-black-background-lime-green-and-black.jpg);
+}
+
+.sound{
+    color: #ffffff;
+}
+
+.copy_right_footer{
+    color: #ffffff;
+}
+
+.audio{
+    color: #d4d1d1;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: #dedada;
+    bottom: 0;
+    width: 100%;
+    font-size: 25px;
+    background-color: #000000cc;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 4px 4px 4px rgb(0, 255, 115);
+}
+
+.header_div
+{
+    background: rgba(0, 0, 0, 0.83);
+    color: #ffffff;
+}
+
